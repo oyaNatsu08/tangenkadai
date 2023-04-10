@@ -1,0 +1,38 @@
+h1, .center {
+    text-align: center;
+}
+body {
+    background-image: url("../img/water_00001.jpg");
+    background-size: cover;
+}
+.back-color {
+    background-color: white;
+    border: 2px solid lightblue;
+    border-radius: 10px;
+    width: 66%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+/* .border {
+    border: 2px solid black;
+    display: inline-block;
+    padding: 10px;
+} */
+.font-large {
+    font-size: 30px;
+}
+form {
+    background-color: white;
+    border-radius: 20px;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 33%;
+}
+.color-red {
+    color: red;
+}
+.color-blue {
+    color: blue;
+}
