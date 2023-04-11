@@ -19,8 +19,12 @@ body {
     display: inline-block;
     padding: 10px;
 } */
-.font-large {
+/* .font-large {
     font-size: 30px;
+} */
+.text-topleft {
+    text-align: left;
+    vertical-align: top; 
 }
 form {
     background-color: white;
